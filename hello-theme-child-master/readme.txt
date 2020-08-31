@@ -1,5 +1,6 @@
 === Hello Elementor Child ===
 
+Newly Modified by Edward Margallo
 Contributors: elemntor, KingYes, ariel.k, jzaltzberg, mati1000, bainternet
 Requires at least: WordPress 4.7
 Tested up to: WordPress 5.2
