@@ -1139,6 +1139,13 @@ section[id^="section-"] {
     margin: 0 0 175px !important;
   }
 
+  /* about */
+
+  /* override because elementor for some reason applies this? */
+  .btn-illustration.elementor-invisible {
+    visibility: visible;
+  }
+
   /* portfolio */
 
   .btn-portfolio-column .elementor-widget-container {
