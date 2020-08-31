@@ -10,5 +10,7 @@
 - Elementor – Header, Footer & Blocks Template
 	- https://wordpress.org/plugins/header-footer-elementor/
 
-# Prerequisites
+# View Demo
 View it at https://edwardmargallo.com/
+
+<img src="https://edwardmargallo.com/wp-content/uploads/2020/06/edward-margallo-logo-shades.svg" style="width: 50px;">
